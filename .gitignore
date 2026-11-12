@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.cache/
+.pytest_cache/
+*.pyc
+research_gap_report.md
+sample_papers/
